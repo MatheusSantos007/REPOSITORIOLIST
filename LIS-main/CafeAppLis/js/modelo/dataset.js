@@ -1,3 +1,5 @@
+//Neste script, temos um array, que contém itens a serem apresentados na nossa página .
+//Declaramos a variável para o array
 const dataset = [
     {
       id: 1,
@@ -29,4 +31,5 @@ const dataset = [
     },
   ];
   
-  export default dataset;
+  export default dataset;//aqui estará fazendo a importação dos "itens"
+//aqui estará fazendo a importação dos "itens"
